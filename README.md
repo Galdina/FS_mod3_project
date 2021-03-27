@@ -37,6 +37,7 @@ I observed few models and best score which I had was 78% accuracy.
 For each model project have:
 * Classification Matrix
 * Confusion Matrix
+![](img/fs_mod3_5.png)
 * Features Importance
 * Some plots for ROC (Received operating characteristic)
 
@@ -44,6 +45,7 @@ For each model project have:
 
 1. Which features decrease churn rate and which increase churn rate?
 2. Is it predictive modeling helpful for telco companies? Can it handle the problem of customer churn?
+![](img/fs_mod3_4.png)
 3. What is companies needed to do to retain churning customers?
 
 ## Summary
