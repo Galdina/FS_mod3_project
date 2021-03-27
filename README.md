@@ -23,7 +23,9 @@ My data set named - [Telco Customer Churn](https://www.kaggle.com/blastchar/telc
 - Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 - The raw data contains 7043 rows (customers) and 21 columns (features).
 - The “Churn” column is our target.
-
+![](img/fs_mod3_1.png)
+![](img/fs_mod3_2.png)
+![](img/fs_mod3_3.png)
 ## OSEMN
 
 I worked with this dataset using OSEMN framework. All steps was saved into jupyter notebook files.
