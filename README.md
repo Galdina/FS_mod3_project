@@ -51,3 +51,8 @@ For each model project have:
 ## Summary
 
 Machine Learning is a powerfull tool to help us make the best decision.
+What happen in the project:
+* Customer Churn Machine Learning and Visualization to help identify the causes of customer churn.
+* Visualized customer churn and charts to identify patterns and correlations across disparate datasets 
+* Deployed SVM, decision trees/random forests/boosted methods, KNN clustering, and Naive Bayes to identify best model
+*Answered regression and classification questions of commercial interest (78% accuracy)
